@@ -1,8 +1,8 @@
 # Small-projects
 My small side projects :)
 
-**Simple calculator** 
-
+<h2>html, css and javascript</h2>
+<h3>Simple calculator</h3>
 <a href="https://github.com/MarianaAa01/Simple-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=rose&repo=Simple-Calculator" />
 </a>
