@@ -12,3 +12,10 @@ My small side projects :)
 <a href="https://github.com/MarianaAa01/Random-dice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=rose&repo=Random-dice" />
 </a>
+
+<br>
+
+<h3>Convert Roman Numerals</h3>
+<a href="https://github.com/MarianaAa01/Convert-Roman-Numerals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=rose&repo=Convert-Roman-Numerals&cache_seconds=60" />
+</a>
